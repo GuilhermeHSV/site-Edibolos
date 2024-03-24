@@ -38,4 +38,4 @@ Tecnologias que foram utilizadas no projeto:
 - [PHP](https://www.php.net/)
 - [MySqli](https://www.php.net/manual/pt_BR/book.mysqli.php)
 ---
-Desenvolvido 👨‍💻 por Guilherme Vasconcellos
+Desenvolvido por Guilherme Vasconcellos 👨‍💻
